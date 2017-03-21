@@ -1,4 +1,8 @@
 # notebooks
+This is a repository of my study notes and lecture notes, on various topics, in Jupyter-notebook format.
+
+You're free to you use them for educational, academic, or other noncommercial purposes, but I'd appreciate a citation.
+
 ## Statistics & Data Analysis
 
 * [__(Non)Correlation between zodiac signs and body weight__](http://nbviewer.jupyter.org/github/mkozturk/notebooks/blob/master/%28Non%29Correlation%20between%20zodiac%20signs%20and%20body%20weight.ipynb) Astrologers claim a lot of weird things, including that some zodiac signs make you overweight. In this fun project, I challenge that claim using a survey of 1000+ people. I use Pandas, determine the coefficient of correlation of zodiac signs with weight, and with body-mass index. I also determine the 95% confidence interval for the correlation coefficient, using bootstrapping.
